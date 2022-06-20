@@ -1,0 +1,1 @@
+float Foo=5; void main() {}
